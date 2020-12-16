@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+
+* {
+    font-family: 'Lucida Console', Monco, monospace;
+}
+
+.colors {
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.color {
+    width: 10%;
+    height: 10%
+    
+}
